@@ -3,18 +3,20 @@ An open source kernel extension for intel wirelless + bluetooth cards.
 
 
 #DVM (IWN) Experimental Support
-1000 Series
+##1000 Series
 Intel(R) Centrino(R) Wireless-N 1000 BGN
 Intel(R) Centrino(R) Wireless-N 1000 BG
 Intel(R) Centrino(R) Wireless-N 100 BGN
 Intel(R) Centrino(R) Wireless-N 100 BG
-2000 Series
+
+##2000 Series
 Intel(R) Centrino(R) Wireless-N 2200 BGN
 Intel(R) Centrino(R) Wireless-N 2200D BGN
 Intel(R) Centrino(R) Wireless-N 2230 BGN
 Intel(R) Centrino(R) Wireless-N 105 BGN
 Intel(R) Centrino(R) Wireless-N 105D BGN
 Intel(R) Centrino(R) Wireless-N 135 BGN
+
 5000 Series
 Intel(R) Ultimate N WiFi Link 5300 AGN
 Intel(R) WiFi Link 5100 BGN
@@ -23,6 +25,7 @@ Intel(R) WiFi Link 5100 AGN
 Intel(R) WiMAX/WiFi Link 5350 AGN
 Intel(R) WiMAX/WiFi Link 5150 AGN
 Intel(R) WiMAX/WiFi Link 5150 ABG
+
 6000 Series
 Intel(R) Centrino(R) Advanced-N 6205 AGN
 Intel(R) Centrino(R) Advanced-N 6205 ABG
@@ -49,6 +52,7 @@ Intel(R) Centrino(R) Advanced-N + WiMAX 6250 ABG
 Intel(R) Centrino(R) Wireless-N + WiMAX 6150 BGN
 Intel(R) Centrino(R) Wireless-N + WiMAX 6150 BG
 Intel(R) Centrino(R) Ultimate-N 6300 AGN
+
 #MVM Gen 1 (IWM)
 7000 Series
 Intel(R) Dual Band Wireless AC 7260
