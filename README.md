@@ -3,13 +3,14 @@ An open source kernel extension for intel wirelless + bluetooth cards.
 
 
 #DVM (IWN) Experimental Support
-##1000 Series
+1000 Series
+
 Intel(R) Centrino(R) Wireless-N 1000 BGN
 Intel(R) Centrino(R) Wireless-N 1000 BG
 Intel(R) Centrino(R) Wireless-N 100 BGN
 Intel(R) Centrino(R) Wireless-N 100 BG
 
-##2000 Series
+2000 Series
 Intel(R) Centrino(R) Wireless-N 2200 BGN
 Intel(R) Centrino(R) Wireless-N 2200D BGN
 Intel(R) Centrino(R) Wireless-N 2230 BGN
