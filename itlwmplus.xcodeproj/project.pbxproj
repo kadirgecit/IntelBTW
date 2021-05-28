@@ -320,6 +320,37 @@
 		5088ECBF252884AF0068A63D /* libkmod.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5088ECBC252884870068A63D /* libkmod.a */; };
 		5088ECC0252884C10068A63D /* libkmod.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5088ECBC252884870068A63D /* libkmod.a */; };
 		5088ECC1252884D70068A63D /* libkmod.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5088ECBC252884870068A63D /* libkmod.a */; };
+		64FFD7E92659B27C0069F977 /* ibt-19-32-4.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7CA2659B27A0069F977 /* ibt-19-32-4.sfi */; };
+		64FFD7EA2659B27C0069F977 /* ibt-17-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7CB2659B27A0069F977 /* ibt-17-1.sfi */; };
+		64FFD7EB2659B27C0069F977 /* ibt-hw-37.8.10-fw-1.10.2.27.d.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7CC2659B27A0069F977 /* ibt-hw-37.8.10-fw-1.10.2.27.d.bseq */; };
+		64FFD7EC2659B27C0069F977 /* ibt-19-240-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7CD2659B27A0069F977 /* ibt-19-240-1.sfi */; };
+		64FFD7ED2659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.2.3.d.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7CE2659B27A0069F977 /* ibt-hw-37.7.10-fw-1.80.2.3.d.bseq */; };
+		64FFD7EE2659B27C0069F977 /* ibt-18-0-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7CF2659B27A0069F977 /* ibt-18-0-1.sfi */; };
+		64FFD7EF2659B27C0069F977 /* ibt-hw-37.7.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D02659B27A0069F977 /* ibt-hw-37.7.bseq */; };
+		64FFD7F02659B27C0069F977 /* ibt-19-32-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D12659B27A0069F977 /* ibt-19-32-1.sfi */; };
+		64FFD7F12659B27C0069F977 /* ibt-11-5.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D22659B27A0069F977 /* ibt-11-5.sfi */; };
+		64FFD7F22659B27C0069F977 /* ibt-hw-37.7.10-fw-1.0.2.3.d.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D32659B27B0069F977 /* ibt-hw-37.7.10-fw-1.0.2.3.d.bseq */; };
+		64FFD7F32659B27C0069F977 /* ibt-hw-37.8.10-fw-1.10.3.11.e.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D42659B27B0069F977 /* ibt-hw-37.8.10-fw-1.10.3.11.e.bseq */; };
+		64FFD7F42659B27C0069F977 /* ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D52659B27B0069F977 /* ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq */; };
+		64FFD7F52659B27C0069F977 /* ibt-20-1-3.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D62659B27B0069F977 /* ibt-20-1-3.sfi */; };
+		64FFD7F62659B27C0069F977 /* ibt-18-2.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D72659B27B0069F977 /* ibt-18-2.sfi */; };
+		64FFD7F72659B27C0069F977 /* ibt-17-0-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D82659B27B0069F977 /* ibt-17-0-1.sfi */; };
+		64FFD7F82659B27C0069F977 /* ibt-hw-37.8.10-fw-22.50.19.14.f.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7D92659B27B0069F977 /* ibt-hw-37.8.10-fw-22.50.19.14.f.bseq */; };
+		64FFD7F92659B27C0069F977 /* ibt-19-0-0.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7DA2659B27B0069F977 /* ibt-19-0-0.sfi */; };
+		64FFD7FA2659B27C0069F977 /* ibt-18-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7DB2659B27B0069F977 /* ibt-18-1.sfi */; };
+		64FFD7FB2659B27C0069F977 /* ibt-19-32-0.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7DC2659B27B0069F977 /* ibt-19-32-0.sfi */; };
+		64FFD7FC2659B27C0069F977 /* ibt-17-16-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7DD2659B27B0069F977 /* ibt-17-16-1.sfi */; };
+		64FFD7FD2659B27C0069F977 /* ibt-20-0-3.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7DE2659B27B0069F977 /* ibt-20-0-3.sfi */; };
+		64FFD7FE2659B27C0069F977 /* ibt-20-1-4.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7DF2659B27B0069F977 /* ibt-20-1-4.sfi */; };
+		64FFD7FF2659B27C0069F977 /* ibt-19-0-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E02659B27B0069F977 /* ibt-19-0-1.sfi */; };
+		64FFD8002659B27C0069F977 /* ibt-18-16-1.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E12659B27B0069F977 /* ibt-18-16-1.sfi */; };
+		64FFD8012659B27C0069F977 /* ibt-17-2.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E22659B27B0069F977 /* ibt-17-2.sfi */; };
+		64FFD8022659B27C0069F977 /* ibt-19-0-4.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E32659B27B0069F977 /* ibt-19-0-4.sfi */; };
+		64FFD8032659B27C0069F977 /* ibt-19-16-4.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E42659B27C0069F977 /* ibt-19-16-4.sfi */; };
+		64FFD8042659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E52659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq */; };
+		64FFD8052659B27C0069F977 /* ibt-hw-37.8.bseq in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E62659B27C0069F977 /* ibt-hw-37.8.bseq */; };
+		64FFD8062659B27C0069F977 /* ibt-19-240-4.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E72659B27C0069F977 /* ibt-19-240-4.sfi */; };
+		64FFD8072659B27C0069F977 /* ibt-12-16.sfi in Resources */ = {isa = PBXBuildFile; fileRef = 64FFD7E82659B27C0069F977 /* ibt-12-16.sfi */; };
 		F800DD9B24FBEBF000789320 /* ItlDriverController.hpp in Headers */ = {isa = PBXBuildFile; fileRef = F800DD9A24FBEBF000789320 /* ItlDriverController.hpp */; };
 		F826EF51264E1F8F00B6D54A /* IOEventLock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F826EF4F264E1F8F00B6D54A /* IOEventLock.cpp */; };
 		F826EF52264E1F8F00B6D54A /* IOEventLock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F826EF4F264E1F8F00B6D54A /* IOEventLock.cpp */; };
@@ -643,6 +674,47 @@
 		35CBE78F251CB8CA00435CBC /* AirportItlwm.kext */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirportItlwm.kext; sourceTree = BUILT_PRODUCTS_DIR; };
 		5076FA7F24CC71E40011B2BB /* FwBinary.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FwBinary.cpp; sourceTree = "<group>"; };
 		5088ECBC252884870068A63D /* libkmod.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libkmod.a; path = MacKernelSDK/Library/x86_64/libkmod.a; sourceTree = "<group>"; };
+		64FFD7CA2659B27A0069F977 /* ibt-19-32-4.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-32-4.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-32-4.sfi"; sourceTree = "<group>"; };
+		64FFD7CB2659B27A0069F977 /* ibt-17-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-17-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-17-1.sfi"; sourceTree = "<group>"; };
+		64FFD7CC2659B27A0069F977 /* ibt-hw-37.8.10-fw-1.10.2.27.d.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.8.10-fw-1.10.2.27.d.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.8.10-fw-1.10.2.27.d.bseq"; sourceTree = "<group>"; };
+		64FFD7CD2659B27A0069F977 /* ibt-19-240-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-240-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-240-1.sfi"; sourceTree = "<group>"; };
+		64FFD7CE2659B27A0069F977 /* ibt-hw-37.7.10-fw-1.80.2.3.d.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.7.10-fw-1.80.2.3.d.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq"; sourceTree = "<group>"; };
+		64FFD7CF2659B27A0069F977 /* ibt-18-0-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-18-0-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-18-0-1.sfi"; sourceTree = "<group>"; };
+		64FFD7D02659B27A0069F977 /* ibt-hw-37.7.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.7.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.7.bseq"; sourceTree = "<group>"; };
+		64FFD7D12659B27A0069F977 /* ibt-19-32-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-32-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-32-1.sfi"; sourceTree = "<group>"; };
+		64FFD7D22659B27A0069F977 /* ibt-11-5.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-11-5.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-11-5.sfi"; sourceTree = "<group>"; };
+		64FFD7D32659B27B0069F977 /* ibt-hw-37.7.10-fw-1.0.2.3.d.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.7.10-fw-1.0.2.3.d.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.7.10-fw-1.0.2.3.d.bseq"; sourceTree = "<group>"; };
+		64FFD7D42659B27B0069F977 /* ibt-hw-37.8.10-fw-1.10.3.11.e.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.8.10-fw-1.10.3.11.e.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.8.10-fw-1.10.3.11.e.bseq"; sourceTree = "<group>"; };
+		64FFD7D52659B27B0069F977 /* ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq"; sourceTree = "<group>"; };
+		64FFD7D62659B27B0069F977 /* ibt-20-1-3.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-20-1-3.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-20-1-3.sfi"; sourceTree = "<group>"; };
+		64FFD7D72659B27B0069F977 /* ibt-18-2.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-18-2.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-18-2.sfi"; sourceTree = "<group>"; };
+		64FFD7D82659B27B0069F977 /* ibt-17-0-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-17-0-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-17-0-1.sfi"; sourceTree = "<group>"; };
+		64FFD7D92659B27B0069F977 /* ibt-hw-37.8.10-fw-22.50.19.14.f.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.8.10-fw-22.50.19.14.f.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq"; sourceTree = "<group>"; };
+		64FFD7DA2659B27B0069F977 /* ibt-19-0-0.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-0-0.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-0-0.sfi"; sourceTree = "<group>"; };
+		64FFD7DB2659B27B0069F977 /* ibt-18-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-18-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-18-1.sfi"; sourceTree = "<group>"; };
+		64FFD7DC2659B27B0069F977 /* ibt-19-32-0.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-32-0.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-32-0.sfi"; sourceTree = "<group>"; };
+		64FFD7DD2659B27B0069F977 /* ibt-17-16-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-17-16-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-17-16-1.sfi"; sourceTree = "<group>"; };
+		64FFD7DE2659B27B0069F977 /* ibt-20-0-3.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-20-0-3.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-20-0-3.sfi"; sourceTree = "<group>"; };
+		64FFD7DF2659B27B0069F977 /* ibt-20-1-4.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-20-1-4.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-20-1-4.sfi"; sourceTree = "<group>"; };
+		64FFD7E02659B27B0069F977 /* ibt-19-0-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-0-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-0-1.sfi"; sourceTree = "<group>"; };
+		64FFD7E12659B27B0069F977 /* ibt-18-16-1.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-18-16-1.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-18-16-1.sfi"; sourceTree = "<group>"; };
+		64FFD7E22659B27B0069F977 /* ibt-17-2.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-17-2.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-17-2.sfi"; sourceTree = "<group>"; };
+		64FFD7E32659B27B0069F977 /* ibt-19-0-4.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-0-4.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-0-4.sfi"; sourceTree = "<group>"; };
+		64FFD7E42659B27C0069F977 /* ibt-19-16-4.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-16-4.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-16-4.sfi"; sourceTree = "<group>"; };
+		64FFD7E52659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq"; sourceTree = "<group>"; };
+		64FFD7E62659B27C0069F977 /* ibt-hw-37.8.bseq */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-hw-37.8.bseq"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-hw-37.8.bseq"; sourceTree = "<group>"; };
+		64FFD7E72659B27C0069F977 /* ibt-19-240-4.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-19-240-4.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-19-240-4.sfi"; sourceTree = "<group>"; };
+		64FFD7E82659B27C0069F977 /* ibt-12-16.sfi */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ibt-12-16.sfi"; path = "../../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/fw/ibt-12-16.sfi"; sourceTree = "<group>"; };
+		64FFD8082659B2A20069F977 /* FwData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = FwData.h; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/FwData.h"; sourceTree = "<group>"; };
+		64FFD8092659B2A20069F977 /* IntelBluetoothFirmware.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = IntelBluetoothFirmware.hpp; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/IntelBluetoothFirmware.hpp"; sourceTree = "<group>"; };
+		64FFD80A2659B2A20069F977 /* Log.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Log.h; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/Log.h"; sourceTree = "<group>"; };
+		64FFD80B2659B2A20069F977 /* zutil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = zutil.h; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/zutil.h"; sourceTree = "<group>"; };
+		64FFD80C2659B2A20069F977 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/Info.plist"; sourceTree = "<group>"; };
+		64FFD80D2659B2A20069F977 /* BtIntel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = BtIntel.cpp; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/BtIntel.cpp"; sourceTree = "<group>"; };
+		64FFD80E2659B2A20069F977 /* BtIntel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BtIntel.h; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/BtIntel.h"; sourceTree = "<group>"; };
+		64FFD80F2659B2A20069F977 /* Hci.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Hci.h; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/Hci.h"; sourceTree = "<group>"; };
+		64FFD8102659B2A20069F977 /* IntelBluetoothFirmware.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = IntelBluetoothFirmware.cpp; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/IntelBluetoothFirmware.cpp"; sourceTree = "<group>"; };
+		64FFD8112659B2A20069F977 /* zutil.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = zutil.c; path = "../../../Downloads/IntelBluetoothFirmware-master/IntelBluetoothFirmware/zutil.c"; sourceTree = "<group>"; };
 		F800DD9A24FBEBF000789320 /* ItlDriverController.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ItlDriverController.hpp; sourceTree = "<group>"; };
 		F826EF4F264E1F8F00B6D54A /* IOEventLock.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = IOEventLock.cpp; sourceTree = "<group>"; };
 		F826EF50264E1F8F00B6D54A /* IOEventLock.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IOEventLock.hpp; sourceTree = "<group>"; };
@@ -816,6 +888,7 @@
 		024A07A223FCBC3C009FBA6C = {
 			isa = PBXGroup;
 			children = (
+				64FFD7C72659AF190069F977 /* bluetooth */,
 				F8B8F1622493C28B0059FAA8 /* include */,
 				024A07AE23FCBC3C009FBA6C /* itlwm */,
 				F8D6CD4F2442E0D100D2A454 /* itl80211 */,
@@ -970,6 +1043,62 @@
 				5088ECBC252884870068A63D /* libkmod.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		64FFD7C72659AF190069F977 /* bluetooth */ = {
+			isa = PBXGroup;
+			children = (
+				64FFD80D2659B2A20069F977 /* BtIntel.cpp */,
+				64FFD80E2659B2A20069F977 /* BtIntel.h */,
+				64FFD8082659B2A20069F977 /* FwData.h */,
+				64FFD80F2659B2A20069F977 /* Hci.h */,
+				64FFD80C2659B2A20069F977 /* Info.plist */,
+				64FFD8102659B2A20069F977 /* IntelBluetoothFirmware.cpp */,
+				64FFD8092659B2A20069F977 /* IntelBluetoothFirmware.hpp */,
+				64FFD80A2659B2A20069F977 /* Log.h */,
+				64FFD8112659B2A20069F977 /* zutil.c */,
+				64FFD80B2659B2A20069F977 /* zutil.h */,
+				64FFD7C82659AF3D0069F977 /* fw */,
+			);
+			path = bluetooth;
+			sourceTree = "<group>";
+		};
+		64FFD7C82659AF3D0069F977 /* fw */ = {
+			isa = PBXGroup;
+			children = (
+				64FFD7D22659B27A0069F977 /* ibt-11-5.sfi */,
+				64FFD7E82659B27C0069F977 /* ibt-12-16.sfi */,
+				64FFD7D82659B27B0069F977 /* ibt-17-0-1.sfi */,
+				64FFD7CB2659B27A0069F977 /* ibt-17-1.sfi */,
+				64FFD7E22659B27B0069F977 /* ibt-17-2.sfi */,
+				64FFD7DD2659B27B0069F977 /* ibt-17-16-1.sfi */,
+				64FFD7CF2659B27A0069F977 /* ibt-18-0-1.sfi */,
+				64FFD7DB2659B27B0069F977 /* ibt-18-1.sfi */,
+				64FFD7D72659B27B0069F977 /* ibt-18-2.sfi */,
+				64FFD7E12659B27B0069F977 /* ibt-18-16-1.sfi */,
+				64FFD7DA2659B27B0069F977 /* ibt-19-0-0.sfi */,
+				64FFD7E02659B27B0069F977 /* ibt-19-0-1.sfi */,
+				64FFD7E32659B27B0069F977 /* ibt-19-0-4.sfi */,
+				64FFD7E42659B27C0069F977 /* ibt-19-16-4.sfi */,
+				64FFD7DC2659B27B0069F977 /* ibt-19-32-0.sfi */,
+				64FFD7D12659B27A0069F977 /* ibt-19-32-1.sfi */,
+				64FFD7CA2659B27A0069F977 /* ibt-19-32-4.sfi */,
+				64FFD7CD2659B27A0069F977 /* ibt-19-240-1.sfi */,
+				64FFD7E72659B27C0069F977 /* ibt-19-240-4.sfi */,
+				64FFD7DE2659B27B0069F977 /* ibt-20-0-3.sfi */,
+				64FFD7D62659B27B0069F977 /* ibt-20-1-3.sfi */,
+				64FFD7DF2659B27B0069F977 /* ibt-20-1-4.sfi */,
+				64FFD7D52659B27B0069F977 /* ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq */,
+				64FFD7D32659B27B0069F977 /* ibt-hw-37.7.10-fw-1.0.2.3.d.bseq */,
+				64FFD7E52659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq */,
+				64FFD7CE2659B27A0069F977 /* ibt-hw-37.7.10-fw-1.80.2.3.d.bseq */,
+				64FFD7D02659B27A0069F977 /* ibt-hw-37.7.bseq */,
+				64FFD7CC2659B27A0069F977 /* ibt-hw-37.8.10-fw-1.10.2.27.d.bseq */,
+				64FFD7D42659B27B0069F977 /* ibt-hw-37.8.10-fw-1.10.3.11.e.bseq */,
+				64FFD7D92659B27B0069F977 /* ibt-hw-37.8.10-fw-22.50.19.14.f.bseq */,
+				64FFD7E62659B27C0069F977 /* ibt-hw-37.8.bseq */,
+			);
+			path = fw;
 			sourceTree = "<group>";
 		};
 		F8585CC32500EA6F00485C5A /* ClientKit */ = {
@@ -1505,6 +1634,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64FFD7FF2659B27C0069F977 /* ibt-19-0-1.sfi in Resources */,
+				64FFD7F62659B27C0069F977 /* ibt-18-2.sfi in Resources */,
+				64FFD8022659B27C0069F977 /* ibt-19-0-4.sfi in Resources */,
+				64FFD7F82659B27C0069F977 /* ibt-hw-37.8.10-fw-22.50.19.14.f.bseq in Resources */,
+				64FFD8052659B27C0069F977 /* ibt-hw-37.8.bseq in Resources */,
+				64FFD7EA2659B27C0069F977 /* ibt-17-1.sfi in Resources */,
+				64FFD7EF2659B27C0069F977 /* ibt-hw-37.7.bseq in Resources */,
+				64FFD7FB2659B27C0069F977 /* ibt-19-32-0.sfi in Resources */,
+				64FFD8002659B27C0069F977 /* ibt-18-16-1.sfi in Resources */,
+				64FFD7ED2659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.2.3.d.bseq in Resources */,
+				64FFD8012659B27C0069F977 /* ibt-17-2.sfi in Resources */,
+				64FFD8032659B27C0069F977 /* ibt-19-16-4.sfi in Resources */,
+				64FFD7EB2659B27C0069F977 /* ibt-hw-37.8.10-fw-1.10.2.27.d.bseq in Resources */,
+				64FFD7F72659B27C0069F977 /* ibt-17-0-1.sfi in Resources */,
+				64FFD7F32659B27C0069F977 /* ibt-hw-37.8.10-fw-1.10.3.11.e.bseq in Resources */,
+				64FFD7FC2659B27C0069F977 /* ibt-17-16-1.sfi in Resources */,
+				64FFD8062659B27C0069F977 /* ibt-19-240-4.sfi in Resources */,
+				64FFD7E92659B27C0069F977 /* ibt-19-32-4.sfi in Resources */,
+				64FFD8042659B27C0069F977 /* ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq in Resources */,
+				64FFD7F02659B27C0069F977 /* ibt-19-32-1.sfi in Resources */,
+				64FFD7F52659B27C0069F977 /* ibt-20-1-3.sfi in Resources */,
+				64FFD7F92659B27C0069F977 /* ibt-19-0-0.sfi in Resources */,
+				64FFD7EE2659B27C0069F977 /* ibt-18-0-1.sfi in Resources */,
+				64FFD7FE2659B27C0069F977 /* ibt-20-1-4.sfi in Resources */,
+				64FFD8072659B27C0069F977 /* ibt-12-16.sfi in Resources */,
+				64FFD7EC2659B27C0069F977 /* ibt-19-240-1.sfi in Resources */,
+				64FFD7F42659B27C0069F977 /* ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq in Resources */,
+				64FFD7F22659B27C0069F977 /* ibt-hw-37.7.10-fw-1.0.2.3.d.bseq in Resources */,
+				64FFD7F12659B27C0069F977 /* ibt-11-5.sfi in Resources */,
+				64FFD7FA2659B27C0069F977 /* ibt-18-1.sfi in Resources */,
+				64FFD7FD2659B27C0069F977 /* ibt-20-0-3.sfi in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
